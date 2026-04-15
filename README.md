@@ -42,9 +42,13 @@ Roblox Scripts Collection for Various Games
 All scripts use **Neverlose UI** - Modern, customizable Roblox UI library.
 
 ## ⚙️ Installation
-1. Copy the script content
-2. Paste into your Roblox executor
-3. Execute the script
+Copy and paste this into your executor:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/minhookrulit-cpu/NASVAI-ink-game/refs/heads/main/nasvai.lua"))()
+```
+
+Then execute the script.
 
 ## 🎮 Controls
 - **Insert** - Toggle UI visibility

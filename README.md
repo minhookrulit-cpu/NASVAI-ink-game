@@ -3,7 +3,7 @@ Roblox Scripts Collection for Various Games
 
 ## 📋 Scripts
 
-### Ink Game (`InkGame/inkgame.lua`)
+### Ink Game (`nasvai.lua`)
 - **Speedhack** - Change walk speed
 - **Kill Aura** - Kill all players in range
 - **Player ESP** - Highlight enemies through walls
@@ -16,30 +16,6 @@ Roblox Scripts Collection for Various Games
 - **Red Light Green Light** - Complete level
 - **Glass Bridge** - Teleport to safe zone
 - **Unlock Dash** - Dash on Q with animation
-
-### Doors (`doors/doors.lua`)
-- **Speedhack** - Change walk speed
-- **Player ESP** - Highlight players
-- **Item ESP** - Highlight items (keys, flashlight, etc.)
-- **Door ESP** - Highlight doors
-- **Free Revive** - Auto-revive on death
-- **Auto Interact** - Auto open doors/pickup items
-- **Anti Jumpscare** - Mute sounds, hide scare objects
-
-### BloxStrike (`bloxstrike/NASVAI.lua`)
-- **Box ESP** - Draw boxes around players
-- **Name ESP** - Show player names
-- **Health ESP** - Show player health
-- **Distance ESP** - Show distance to players
-- **Health Bar** - Draw health bars
-- **3D Highlight** - Highlight players in 3D
-- **Team Check** - Only show enemies
-
-### Coordinates (`coords.lua`)
-- Simple position tracker showing X, Y, Z coordinates
-
-## 🎨 UI Library
-All scripts use **Neverlose UI** - Modern, customizable Roblox UI library.
 
 ## ⚙️ Installation
 Copy and paste this into your executor:
